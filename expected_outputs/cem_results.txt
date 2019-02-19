@@ -1,0 +1,109 @@
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 0, events 8
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 1, events 16
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 2, events 24
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 3, events 32
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 4, events 40
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 5, events 48
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 6, events 56
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 7, events 64
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Bump: iter 1
+Bump: iter 2
+Bump: iter 3
+Bump: iter 4
+Bump: iter 5
+Bump: iter 6
+Bump: iter 7
+run 8, events 72
+0000 0001 0000 0002 0000 0003 0000 0106 
+0100 0101 0102 0103 0104 0105 0107 010E 
+
+rate: samples/block: 29/16
+Split finish: 72 events 0 missed

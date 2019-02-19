@@ -1,0 +1,51 @@
+warmup: discarded 0
+warmup: discarded 1
+warmup: discarded 2
+warmup: done
+train: class 1 count 1/16
+train: class 1 count 2/16
+train: class 1 count 3/16
+train: class 1 count 4/16
+train: class 1 count 5/16
+train: class 1 count 6/16
+train: class 1 count 7/16
+train: class 1 count 8/16
+train: class 1 count 9/16
+train: class 1 count 10/16
+train: class 1 count 11/16
+train: class 1 count 12/16
+train: class 1 count 13/16
+train: class 1 count 14/16
+train: class 1 count 15/16
+train: class 1 count 16/16
+warmup: discarded 0
+warmup: discarded 1
+warmup: discarded 2
+warmup: done
+train: class 0 count 1/16
+train: class 0 count 2/16
+train: class 0 count 3/16
+train: class 0 count 4/16
+train: class 0 count 5/16
+train: class 0 count 6/16
+train: class 0 count 7/16
+train: class 0 count 8/16
+train: class 0 count 9/16
+train: class 0 count 10/16
+train: class 0 count 11/16
+train: class 0 count 12/16
+train: class 0 count 13/16
+train: class 0 count 14/16
+train: class 0 count 15/16
+train: class 0 count 16/16
+stats: total 1
+stats: total 2
+stats: total 3
+stats: total 4
+stats: s 3 (75%) m 1 (25%) sum/tot 4/4: V
+stats: total 1
+stats: total 2
+stats: total 3
+stats: total 4
+stats: s 2 (50%) m 2 (50%) sum/tot 4/4: V
+126 events 0 missed

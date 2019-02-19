@@ -1,0 +1,3 @@
+This directory holds all the scripts involved in running and analyzing the apps.
+The support directory holds the scripts that the three scripts sitting
+immediately in this directory use.

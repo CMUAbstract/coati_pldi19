@@ -1,0 +1,934 @@
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+Run 0:
+Cuckoo run 0
+stats: inserts 32 members 32 total 32 with 0 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 6EAA not member
+lookup: key 730C not member
+Run 1:
+Cuckoo run 1
+stats: inserts 34 members 30 total 32 with 2 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 7573 not member
+lookup: key 8068 not member
+Run 2:
+Cuckoo run 2
+stats: inserts 34 members 30 total 32 with 4 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 3:
+Cuckoo run 3
+stats: inserts 33 members 30 total 32 with 6 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 752B not member
+lookup: key 77A0 not member
+lookup: key 7966 not member
+Run 4:
+Cuckoo run 4
+stats: inserts 35 members 29 total 32 with 9 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 70C9 not member
+lookup: key 731C not member
+Run 5:
+Cuckoo run 5
+stats: inserts 34 members 30 total 32 with 11 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 7CEF not member
+lookup: key 7FA8 not member
+Run 6:
+Cuckoo run 6
+stats: inserts 34 members 30 total 32 with 13 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 731C not member
+lookup: key 74A0 not member
+Run 7:
+Cuckoo run 7
+stats: inserts 34 members 30 total 32 with 16 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 8:
+Cuckoo run 8
+stats: inserts 33 members 30 total 32 with 18 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 752B not member
+lookup: key 77A0 not member
+Run 9:
+Cuckoo run 9
+stats: inserts 34 members 30 total 32 with 20 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 10:
+Cuckoo run 10
+stats: inserts 33 members 30 total 32 with 22 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 7CEF not member
+lookup: key 7FA8 not member
+Run 11:
+Cuckoo run 11
+stats: inserts 34 members 30 total 32 with 25 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 70C9 not member
+lookup: key 731C not member
+Run 12:
+Cuckoo run 12
+stats: inserts 34 members 30 total 32 with 27 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 7CEF not member
+lookup: key 7FA8 not member
+Run 13:
+Cuckoo run 13
+stats: inserts 34 members 30 total 32 with 29 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 752B not member
+lookup: key 77A0 not member
+Run 14:
+Cuckoo run 14
+stats: inserts 34 members 30 total 32 with 32 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 15:
+Cuckoo run 15
+stats: inserts 33 members 30 total 32 with 34 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 752B not member
+lookup: key 77A0 not member
+Run 16:
+Cuckoo run 16
+stats: inserts 34 members 30 total 32 with 36 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 17:
+Cuckoo run 17
+stats: inserts 33 members 30 total 32 with 38 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 752B not member
+lookup: key 77A0 not member
+lookup: key 7966 not member
+Run 18:
+Cuckoo run 18
+stats: inserts 35 members 29 total 32 with 41 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 70C9 not member
+lookup: key 731C not member
+Run 19:
+Cuckoo run 19
+stats: inserts 34 members 30 total 32 with 43 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 7CEF not member
+lookup: key 7FA8 not member
+Run 20:
+Cuckoo run 20
+stats: inserts 34 members 30 total 32 with 45 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 70C9 not member
+lookup: key 731C not member
+lookup: key 74A0 not member
+Run 21:
+Cuckoo run 21
+stats: inserts 35 members 29 total 32 with 48 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 22:
+Cuckoo run 22
+stats: inserts 33 members 30 total 32 with 50 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+lookup: key 752B not member
+lookup: key 77A0 not member
+Run 23:
+Cuckoo run 23
+stats: inserts 34 members 30 total 32 with 52 events
+insert done: insert tsk 1 , insert ev 0 inserted total 1
+insert done: insert tsk 2 , insert ev 0 inserted total 2
+insert done: insert tsk 3 , insert ev 0 inserted total 3
+insert done: insert tsk 4 , insert ev 0 inserted total 4
+insert done: insert tsk 5 , insert ev 0 inserted total 5
+insert done: insert tsk 6 , insert ev 0 inserted total 6
+insert done: insert tsk 7 , insert ev 0 inserted total 7
+insert done: insert tsk 8 , insert ev 0 inserted total 8
+insert done: insert tsk 9 , insert ev 0 inserted total 9
+insert done: insert tsk 10 , insert ev 0 inserted total 10
+insert done: insert tsk 11 , insert ev 0 inserted total 11
+insert done: insert tsk 12 , insert ev 0 inserted total 12
+insert done: insert tsk 13 , insert ev 0 inserted total 13
+insert done: insert tsk 14 , insert ev 0 inserted total 14
+insert done: insert tsk 15 , insert ev 0 inserted total 15
+insert done: insert tsk 16 , insert ev 0 inserted total 16
+insert done: insert tsk 17 , insert ev 0 inserted total 17
+insert done: insert tsk 18 , insert ev 0 inserted total 18
+insert done: insert tsk 19 , insert ev 0 inserted total 19
+insert done: insert tsk 20 , insert ev 0 inserted total 20
+insert done: insert tsk 21 , insert ev 0 inserted total 21
+insert done: insert tsk 22 , insert ev 0 inserted total 22
+insert done: insert tsk 23 , insert ev 0 inserted total 23
+insert done: insert tsk 24 , insert ev 0 inserted total 24
+insert done: insert tsk 25 , insert ev 0 inserted total 25
+insert done: insert tsk 26 , insert ev 0 inserted total 26
+insert done: insert tsk 27 , insert ev 0 inserted total 27
+insert done: insert tsk 28 , insert ev 0 inserted total 28
+insert done: insert tsk 29 , insert ev 0 inserted total 29
+insert done: insert tsk 30 , insert ev 0 inserted total 30
+insert done: insert tsk 31 , insert ev 0 inserted total 31
+insert done: insert tsk 32 , insert ev 0 inserted total 32
+relocate: max relocs reached: 8
+lookup: key 6E98 not member
+lookup: key 70DA not member
+Run 24:
+Cuckoo run 24
+stats: inserts 33 members 30 total 32 with 54 events
+split cuckoo final: 54 events 0 missed
