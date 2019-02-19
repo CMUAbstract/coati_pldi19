@@ -1,0 +1,253 @@
+126 events 0 missed
+Tx iter 0 
+Cyphertext:
+D6 CC E9 B1 EF 04 77 39  ......w9
+F8 01 92 45 5E 96 DE 6A  ...E^..j
+.RRRSSSAAA.
+Tx iter 1 
+Cyphertext:
+A7 10 3B 27 14 2A 21 5C  ..;'.*!\
+C4 9D F2 F4 8F AF 1E 88  ........
+TEST.INPUT1
+Tx iter 2 
+Cyphertext:
+CC E2 C3 36 0F 03 90 66  ...6...f
+FE B0 DB 42 E2 29 8F 9D  ...B.)..
+INPUT.TEST2
+Tx iter 3 
+Cyphertext:
+84 DB 63 6E 60 0C 93 0C  ..cn`...
+FE 27 74 E7 D3 5D A0 1F  .'t..]..
+SAUCONY.RUN
+Tx iter 4 
+Cyphertext:
+80 6E 43 F1 F3 85 B4 35  .nC....5
+2B FF 32 02 A4 95 0E 76  +.2....v
+RUN.SAUCONY
+Tx iter 5 
+Cyphertext:
+65 9F DB 96 2E B0 B7 42  e......B
+53 BB 99 CD 1E 37 27 48  S....7'H
+TROT.ADIDAS
+Tx iter 6 
+Cyphertext:
+E5 8C 32 3B 1D 99 A6 4B  ..2;...K
+26 C7 C8 65 17 CC 84 5A  &..e...Z
+ADIDAS.TROT
+Tx iter 7 
+Cyphertext:
+97 5E B1 97 10 58 CD A1  .^...X..
+4B 04 26 6C F7 42 8F 98  K.&l.B..
+BROOKS.JOGS
+Tx iter 8 
+Cyphertext:
+2F 86 2C 7A E4 C5 6F 51  /.,z..oQ
+64 3A 2C 6C 1B 60 2D 0F  d:,l.`-.
+JOGS.BROOKS
+Tx iter 9 
+Cyphertext:
+2D 87 4F BA 76 D4 5A 39  -.O.v.Z9
+70 FE 45 B1 8D F0 E3 A1  p.E.....
+NIKE.SPRINT
+Tx iter 10 
+Cyphertext:
+D0 86 81 AF B8 FA 55 A6  ......U.
+04 45 0F 73 79 34 4B 85  .E.sy4K.
+SPRINT.NIKE
+Tx iter 11 
+Cyphertext:
+CB 5A FF 20 E3 DA FC 2B  .Z. ...+
+A3 1E 11 FD 5F 3A 5A 8A  ...._:Z.
+MIZUNO.WALK
+Tx iter 12 
+Cyphertext:
+06 FF D3 DB BA C3 51 74  ......Qt
+8C 72 82 3A D7 C7 12 6F  .r.:...o
+WALK.MIZUNO
+Tx iter 13 
+Cyphertext:
+EF 9E B4 55 1D 48 89 85  ...U.H..
+9A 60 D3 04 38 97 C2 28  .`..8..(
+ASICS.DASH.
+Tx iter 14 
+Cyphertext:
+15 D5 17 A1 A8 A9 54 82  ......T.
+EF 44 94 1E 8B A3 45 90  .D....E.
+.DASH.ASICS
+Tx iter 15 
+Cyphertext:
+EB 52 20 80 0A 27 7F 27  .R ..''
+CD 3D 53 D0 E9 05 83 47  .=S....G
+HOKA.STROLL
+Tx iter 16 
+Cyphertext:
+7B 86 46 B2 D2 B6 C5 21  {.F....!
+A0 AA F5 19 9E 10 C7 10  ........
+STROLL.HOKA
+Tx iter 17 
+Cyphertext:
+A7 10 3B 27 14 2A 21 5C  ..;'.*!\
+C4 9D F2 F4 8F AF 1E 88  ........
+TEST.INPUT1
+Tx iter 18 
+Cyphertext:
+CC E2 C3 36 0F 03 90 66  ...6...f
+FE B0 DB 42 E2 29 8F 9D  ...B.)..
+INPUT.TEST2
+Tx iter 19 
+Cyphertext:
+84 DB 63 6E 60 0C 93 0C  ..cn`...
+FE 27 74 E7 D3 5D A0 1F  .'t..]..
+SAUCONY.RUN
+Tx iter 20 
+Cyphertext:
+80 6E 43 F1 F3 85 B4 35  .nC....5
+2B FF 32 02 A4 95 0E 76  +.2....v
+RUN.SAUCONY
+Tx iter 21 
+Cyphertext:
+65 9F DB 96 2E B0 B7 42  e......B
+53 BB 99 CD 1E 37 27 48  S....7'H
+TROT.ADIDAS
+Tx iter 22 
+Cyphertext:
+E5 8C 32 3B 1D 99 A6 4B  ..2;...K
+26 C7 C8 65 17 CC 84 5A  &..e...Z
+ADIDAS.TROT
+Tx iter 23 
+Cyphertext:
+97 5E B1 97 10 58 CD A1  .^...X..
+4B 04 26 6C F7 42 8F 98  K.&l.B..
+BROOKS.JOGS
+Tx iter 24 
+Cyphertext:
+2F 86 2C 7A E4 C5 6F 51  /.,z..oQ
+64 3A 2C 6C 1B 60 2D 0F  d:,l.`-.
+JOGS.BROOKS
+Tx iter 25 
+Cyphertext:
+2D 87 4F BA 76 D4 5A 39  -.O.v.Z9
+70 FE 45 B1 8D F0 E3 A1  p.E.....
+NIKE.SPRINT
+Tx iter 26 
+Cyphertext:
+D0 86 81 AF B8 FA 55 A6  ......U.
+04 45 0F 73 79 34 4B 85  .E.sy4K.
+SPRINT.NIKE
+Tx iter 27 
+Cyphertext:
+CB 5A FF 20 E3 DA FC 2B  .Z. ...+
+A3 1E 11 FD 5F 3A 5A 8A  ...._:Z.
+MIZUNO.WALK
+Tx iter 28 
+Cyphertext:
+06 FF D3 DB BA C3 51 74  ......Qt
+8C 72 82 3A D7 C7 12 6F  .r.:...o
+WALK.MIZUNO
+Tx iter 29 
+Cyphertext:
+EF 9E B4 55 1D 48 89 85  ...U.H..
+9A 60 D3 04 38 97 C2 28  .`..8..(
+ASICS.DASH.
+Tx iter 30 
+Cyphertext:
+15 D5 17 A1 A8 A9 54 82  ......T.
+EF 44 94 1E 8B A3 45 90  .D....E.
+.DASH.ASICS
+Tx iter 31 
+Cyphertext:
+EB 52 20 80 0A 27 7F 27  .R ..''
+CD 3D 53 D0 E9 05 83 47  .=S....G
+HOKA.STROLL
+Tx iter 32 
+Cyphertext:
+7B 86 46 B2 D2 B6 C5 21  {.F....!
+A0 AA F5 19 9E 10 C7 10  ........
+STROLL.HOKA
+Tx iter 33 
+Cyphertext:
+A7 10 3B 27 14 2A 21 5C  ..;'.*!\
+C4 9D F2 F4 8F AF 1E 88  ........
+TEST.INPUT1
+Tx iter 34 
+Cyphertext:
+CC E2 C3 36 0F 03 90 66  ...6...f
+FE B0 DB 42 E2 29 8F 9D  ...B.)..
+INPUT.TEST2
+Tx iter 35 
+Cyphertext:
+84 DB 63 6E 60 0C 93 0C  ..cn`...
+FE 27 74 E7 D3 5D A0 1F  .'t..]..
+SAUCONY.RUN
+Tx iter 36 
+Cyphertext:
+80 6E 43 F1 F3 85 B4 35  .nC....5
+2B FF 32 02 A4 95 0E 76  +.2....v
+RUN.SAUCONY
+Tx iter 37 
+Cyphertext:
+65 9F DB 96 2E B0 B7 42  e......B
+53 BB 99 CD 1E 37 27 48  S....7'H
+TROT.ADIDAS
+Tx iter 38 
+Cyphertext:
+E5 8C 32 3B 1D 99 A6 4B  ..2;...K
+26 C7 C8 65 17 CC 84 5A  &..e...Z
+ADIDAS.TROT
+Tx iter 39 
+Cyphertext:
+97 5E B1 97 10 58 CD A1  .^...X..
+4B 04 26 6C F7 42 8F 98  K.&l.B..
+BROOKS.JOGS
+Tx iter 40 
+Cyphertext:
+2F 86 2C 7A E4 C5 6F 51  /.,z..oQ
+64 3A 2C 6C 1B 60 2D 0F  d:,l.`-.
+JOGS.BROOKS
+Tx iter 41 
+Cyphertext:
+2D 87 4F BA 76 D4 5A 39  -.O.v.Z9
+70 FE 45 B1 8D F0 E3 A1  p.E.....
+NIKE.SPRINT
+Tx iter 42 
+Cyphertext:
+D0 86 81 AF B8 FA 55 A6  ......U.
+04 45 0F 73 79 34 4B 85  .E.sy4K.
+SPRINT.NIKE
+Tx iter 43 
+Cyphertext:
+CB 5A FF 20 E3 DA FC 2B  .Z. ...+
+A3 1E 11 FD 5F 3A 5A 8A  ...._:Z.
+MIZUNO.WALK
+Tx iter 44 
+Cyphertext:
+06 FF D3 DB BA C3 51 74  ......Qt
+8C 72 82 3A D7 C7 12 6F  .r.:...o
+WALK.MIZUNO
+Tx iter 45 
+Cyphertext:
+EF 9E B4 55 1D 48 89 85  ...U.H..
+9A 60 D3 04 38 97 C2 28  .`..8..(
+ASICS.DASH.
+Tx iter 46 
+Cyphertext:
+15 D5 17 A1 A8 A9 54 82  ......T.
+EF 44 94 1E 8B A3 45 90  .D....E.
+.DASH.ASICS
+Tx iter 47 
+Cyphertext:
+EB 52 20 80 0A 27 7F 27  .R ..''
+CD 3D 53 D0 E9 05 83 47  .=S....G
+HOKA.STROLL
+Tx iter 48 
+Cyphertext:
+7B 86 46 B2 D2 B6 C5 21  {.F....!
+A0 AA F5 19 9E 10 C7 10  ........
+STROLL.HOKA
+Tx iter 49 
+Cyphertext:
+A7 10 3B 27 14 2A 21 5C  ..;'.*!\
+C4 9D F2 F4 8F AF 1E 88  ........
+TEST.INPUT1
+55 events 0 missed
+Done!

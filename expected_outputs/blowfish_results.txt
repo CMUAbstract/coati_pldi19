@@ -1,0 +1,135 @@
+split cuckoo final: 54 events 0 missed
+result: 3E, H
+result: CB, e
+result: F3, l
+result: E6, l
+result: B0, o
+result: B5, ,
+result: 80,  
+result: 77, W
+result: 80, o
+result: B4, r
+result: 58, l
+result: DE, d
+result: 91, !
+_INPUT .TEST2
+Bf run 1, events 5
+result: 29, _
+result: E7, I
+result: D1, N
+result: DA, P
+result: 8A, U
+result: CD, T
+result: 80,  
+result: E, .
+result: 89, T
+result: 77, E
+result: 28, S
+result: B5, T
+result: 6B, 2
+_SAUCONY .RUN
+Bf run 2, events 13
+result: 29, _
+result: FD, S
+result: DE, A
+result: DF, U
+result: 9C, C
+result: D6, O
+result: EE, N
+result: 79, Y
+result: 70,  
+result: 47, .
+result: 7, R
+result: DB, U
+result: 21, N
+_RUN .SAUCONY
+Bf run 3, events 21
+result: 29, _
+result: FC, R
+result: CA, U
+result: C4, N
+result: FF,  
+result: B7, .
+result: F3, S
+result: 61, A
+result: 5E, U
+result: 0, C
+result: E0, O
+result: B8, N
+result: 8B, Y
+_TROT .ADIDAS
+Bf run 4, events 29
+result: 29, _
+result: FA, T
+result: CD, R
+result: C5, O
+result: 8B, T
+result: B9,  
+result: 8E, .
+result: 61, A
+result: 38, D
+result: CA, I
+result: ED, D
+result: DF, A
+result: A3, S
+_ADIDAS .TROT
+Bf run 5, events 37
+result: 29, _
+result: EF, A
+result: DB, D
+result: C3, I
+result: 9B, D
+result: D8, A
+result: F3, S
+result: 0,  
+result: D5, .
+result: F6, T
+result: 1E, R
+result: F6, O
+result: E3, T
+_BROOKS .JOGS
+Bf run 6, events 45
+result: 29, _
+result: EC, B
+result: CD, R
+result: C5, O
+result: 90, O
+result: D2, K
+result: F3, S
+result: 0,  
+result: 17, .
+result: 36, J
+result: 83, O
+result: 2, G
+result: BF, S
+_JOGS .BROOKS
+Bf run 7, events 52
+result: 29, _
+result: E4, J
+result: D0, O
+result: CD, G
+result: 8C, S
+result: B9,  
+result: 8E, .
+result: 62, B
+result: C0, R
+result: 39, O
+result: F5, O
+result: 3E, K
+result: D7, S
+_NIKE .SPRINT
+Bf run 8, events 60
+result: 29, _
+result: E0, N
+result: D6, I
+result: C1, K
+result: 9A, E
+result: B9,  
+result: 8E, .
+result: 73, S
+result: 54, P
+result: 25, R
+result: 59, I
+result: 46, N
+result: 85, T
+Split done! 69 events 0 missed
